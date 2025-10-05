@@ -4,6 +4,7 @@
 **Author:** Brian Kuhlman, PhD  
 **Published:** October 2025  
 **Current Version:** 1.0
+**Download the PDF:** https://github.com/bkuhlman80/ai-personality-book/blob/main/docs/AI-Personality-Development-Kuhlman-Oct2025.pdf
 
 ---
 
